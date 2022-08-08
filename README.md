@@ -8,4 +8,4 @@ This project was tested on the ESP8266 D1 Mini.
 
 I do not own this library. For the official library, please visit: https://github.com/eloquentarduino/EloquentTinyML
 
-Note: This library is NOT latest version of eloquentTinyML (2.4.0).
+Note: This library does NOT use the latest version of eloquentTinyML (2.4.0).
