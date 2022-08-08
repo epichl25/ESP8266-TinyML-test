@@ -1,4 +1,4 @@
-# ESP8266_EloquentTinyML_test
+# ESP8266_TinyML
 
 This repository contains a modified version of the EloquentTinyML library for the ESP8266.
 
