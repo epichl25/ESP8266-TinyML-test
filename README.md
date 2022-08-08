@@ -2,7 +2,7 @@
 
 This repository contains a modified version of the EloquentTinyML library for the ESP8266. 
 
-The official release for the current library only supports Cortex-M and ESP32. Therefore, this repository was created to increase the compatiability to ESP8266.
+The official release for the library currently only supports Cortex-M and ESP32. Therefore, this repository was created to increase the compatiability to ESP8266.
 
 This project was tested on the ESP8266 D1 Mini.
 
