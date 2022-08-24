@@ -22,7 +22,7 @@ Note: This library does NOT use the latest version of eloquentTinyML.
 Note 1: Check the board's configurations are correct in the Arduino IDE.
 Note 2: Remember to check the correct port has been selected.
 
-4. Add the library to Arduino IDE: Go to Sketch => Include Library => Add .ZIP Lirary => Locate the ESP8266-TinyML-test folder => Go to "ESP8266-TinyML-test/lib" => Open "EloquentTinyML-0.0.10MOD.zip".
+4. Add the library to Arduino IDE: Go to Sketch => Include Library => Add .ZIP Lirary => Locate the ESP8266-TinyML-test folder => Go to "ESP8266-TinyML-test/lib" => Add "EloquentTinyML-0.0.10MOD.zip".
 
 5. Verify the programme
 
