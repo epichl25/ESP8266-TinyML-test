@@ -21,7 +21,7 @@ git clone https://github.com/epichl25/ESP8266-TinyML-test.git
 ### Arduino IDE
 1. Add the test programme to Arduino IDE: Locate the ESP8266-TinyML-test folder => Go to "ESP8266-TinyML-test/src" and open "main.c" with Arduino IDE.
 
-2. Download the ESP8266 board series from Arduino IDE: Tools => Board => Boards Manager => Type 'esp8266' into the search bar and install the latest version by 'ESP8266 community'. 
+2. Download the ESP8266 board series from Arduino IDE: Tools => Board => Boards Manager => Type "esp8266" into the search bar and install the latest version by "ESP8266 community". 
 
 3. Select the correct ESP8266 board: Tools => ESP8266 => "choose the correct board you have".
 Note 1: Check the board's configurations are correct in the Arduino IDE.
