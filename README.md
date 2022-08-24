@@ -13,6 +13,11 @@ Note: This library does NOT use the latest version of eloquentTinyML.
 
 ## How to use this project
 
+Clone this repository:
+''' 
+git clone https://github.com/epichl25/ESP8266-TinyML-test.git
+```
+
 ### Arduino IDE
 1. Add the test programme to Arduino IDE: Locate the ESP8266-TinyML-test folder => Go to "ESP8266-TinyML-test/src" and open "main.c" with Arduino IDE.
 
